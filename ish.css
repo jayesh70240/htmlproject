@@ -1,0 +1,36 @@
+.ishu{
+    display: flex;
+    justify-content: flex-start;
+    text-align: center;
+    background-color: black;
+        height: 6vw;
+}
+.ishu img{
+    
+            height: 6vw;
+            width: 16vw;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.ishu button{
+        
+            height: 59px;
+            margin: 13px -13px;
+            background: none;
+            color: white;
+            border: black;
+        
+}
+button:hover{
+    cursor: pointer;
+    border: 2px solid yellow;
+}
+.dropdown button{
+    margin: 2px 30px;
+}
+.dropdown input{
+    margin: 0px -35px;
+}
